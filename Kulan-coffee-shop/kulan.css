@@ -18,7 +18,7 @@
     --bg-color:#fff;
 }
 img{
-    width: 100%;
+    width: 50%;
 }
 body{
     color: var(--text-color);
@@ -33,4 +33,5 @@ header{
     align-items: center;
     padding: 18px 100px;
     transition: 0.5s linear;
+    background: var(--bg-color);
 }
