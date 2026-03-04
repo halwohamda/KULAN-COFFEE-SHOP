@@ -9,4 +9,10 @@
     scroll-behavior: smooth;
     list-style: none;
     text-decoration: none;
-};
+}
+
+:root{
+    --main-color:#bc9667;
+    --second-color:#edeae3;
+    --text-color:#edeae3;
+}
