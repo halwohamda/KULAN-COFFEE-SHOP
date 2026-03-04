@@ -68,3 +68,6 @@ header{
 .header-icon .bx{
     color: var(--bg-color);
 }
+.header-icon .bx:hover{
+    color: var(--main-color);
+}
