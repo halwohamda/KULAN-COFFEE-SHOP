@@ -52,6 +52,12 @@ header{
     font-weight: 500;
 }
 
+.navbar a:hover{
+    background: var(--main-color);
+    border-radius: 0.2rem;
+    transition: 0.2s all linear;
+}
+
 .header-icon{
     font-size: 22px;
     cursor: pointer;
