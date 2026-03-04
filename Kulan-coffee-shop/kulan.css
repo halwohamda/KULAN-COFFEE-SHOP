@@ -15,4 +15,11 @@
     --main-color:#bc9667;
     --second-color:#edeae3;
     --text-color:#edeae3;
+    --bg-color:#fff;
+}
+img{
+    width: 100%;
+}
+body{
+    color: var(--text-color);
 }
